@@ -1,0 +1,19 @@
+{
+  "name": "BOT AI by FARHAN ANSARI (Google Facilator)",
+  "version": "1.0.0",
+  "description": "BOT AI with Voice buddy",
+  "main": "index.js",
+  "scripts": {
+    "start": "nf start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Farhan Ansari",
+  "license": "MIT",
+  "dependencies": {
+    "apiai": "^4.0.2",
+    "dotenv": "^4.0.0",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "socketio": "^1.0.0"
+  }
+}
