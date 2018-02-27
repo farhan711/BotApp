@@ -1,0 +1,17 @@
+{
+  "name": "Google Facilator Program",
+  "description": "AI BOT By Farhan Ansari",
+  "repository": "https://github.com/farhan711/goooglefacilator",
+  "keywords": ["ai", "api.ai", "bot", "w3c"],
+  "env": {
+    "APIAI_TOKEN": {
+      "description": "API.ai Client access token",
+      "value": ""
+    },
+    "APIAI_SESSION_ID": {
+      "description": "An arbitrary string",
+      "value": ""
+    }
+  },
+  "image": "heroku/nodejs"
+}
